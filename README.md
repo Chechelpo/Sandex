@@ -71,13 +71,6 @@ Example:
 
     sandex samples.rar --out /tmp --name test_run
 
----
-
-Show version:
-
-    sandex --version
-
----
 
 Output
 
