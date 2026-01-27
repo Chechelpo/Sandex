@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: sandex
+Version: 0.1.0a1
+Summary: Sandboxed archive extraction for Linux (bubblewrap + bsdtar)
+Author: felipey
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+Sandboxed file extractor for linux written in Python.
+<p>
+Dependencies:
+    -bwrap: sandbox
+    -bsdtar: for zip and tar extraction
+</p>
