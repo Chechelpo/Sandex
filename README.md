@@ -15,7 +15,8 @@ Only available for Linux.
 
 - **unrar** — RAR extraction  
   https://github.com/aawc/unrar
-
+  
+- **python** — Orchestration (version >= 3.10)
 ---
 ### Installation
 1. Ensure that you have the dependencies listed earlier
