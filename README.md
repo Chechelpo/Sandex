@@ -113,7 +113,7 @@ Here are some examples of relevant security vulnerabilities of extractors:
      https://nvd.nist.gov/vuln/detail/CVE-2025-45582
   2. CVE-2025-55188 7Zip : Same symlink things.
      https://nvd.nist.gov/vuln/detail/CVE-2025-55188
-<p>Issues with extractors usually involve Zip slips, which should (in theory) be prevented with sandex's sandboxing.</p>
+<p>Many archive-related issues fall under the “Zip Slip” class (path traversal and symlink abuse). Sandex mitigates these by restricting writable paths to the extraction directory and isolating the extraction process using Linux namespaces.</p>
 
 Future versions will support:
 
