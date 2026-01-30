@@ -17,6 +17,15 @@ Only available for Linux.
   https://github.com/aawc/unrar
 
 ---
+#### Installation
+1. Ensure that you have the dependencies listed earlier
+2. Download a wheel from releases.
+3. Run
+<code> python -m installer --prefix="$HOME/.local" sandex-0.1.0-py3-none-any.whl </code>
+  to install as user (no need for SUDO)
+4. Follow the usage guide below to start extracting files
+
+---
 
 ### Sandbox configuration
 
