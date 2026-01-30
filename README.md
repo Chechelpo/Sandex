@@ -1,4 +1,4 @@
-## Sandex
+## Sandex (Sandboxed Extractor)
 
 CLI tool for extracting files in a sandbox.  
 Only available for Linux.
