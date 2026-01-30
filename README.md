@@ -112,7 +112,7 @@ Here are some examples of relevant security vulnerabilities of extractors:
      https://nvd.nist.gov/vuln/detail/CVE-2025-45582
   2. CVE-2025-55188 7Zip : Same symlink things.
      https://nvd.nist.gov/vuln/detail/CVE-2025-55188
-Issues with extractors usually involve Zip slips, which should (in theory) be prevented with sandex's sandboxing.
+<p>Issues with extractors usually involve Zip slips, which should (in theory) be prevented with sandex's sandboxing.</p>
 
 Future versions will support:
 
