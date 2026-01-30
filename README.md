@@ -21,7 +21,7 @@ Only available for Linux.
 1. Ensure that you have the dependencies listed earlier
 2. Download a wheel from releases.
 3. Run
-<code> python -m installer --prefix="$HOME/.local" sandex-0.1.0-py3-none-any.whl </code>
+<code> python -m installer --prefix="$HOME/.local" <downloaded wheel path></code>
   to install as user (no need for SUDO)
 4. Follow the usage guide below to start extracting files
 
